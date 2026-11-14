@@ -1,0 +1,9 @@
+Palm Mind AI is a technology company that develops artificial intelligence solutions for businesses. The company focuses on machine learning, natural language processing and data analytics.
+
+The AI and ML internship requires knowledge of Python programming, basic statistics and machine learning algorithms. Candidates should also understand databases and REST APIs.
+
+Interns work with experienced developers to build practical AI applications. They are responsible for data preprocessing, model evaluation and backend development.
+
+Interviews are conducted from Monday to Friday between 10 AM and 4 PM. Candidates must provide their name, email address, preferred date and time to book an interview.
+
+The internship provides opportunities to develop technical skills, gain industry experience and collaborate with other developers.
