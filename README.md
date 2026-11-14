@@ -115,17 +115,3 @@ uv run python -m pytest -v
 
 Seven local automated tests cover document extraction,
 chunking, metadata storage and booking storage.
-
-## Limitations
-
-- Local Qdrant storage is intended for small prototypes.
-- Scanned PDFs requiring OCR are not supported.
-- Conversation history expires after 24 hours.
-- Interview bookings use Nepal time.
-- Real interviewer availability is not checked.
-- Authentication is not implemented.
-- Duplicate document uploads are possible.
-- Retrieved context is sent to an external LLM API.
-
-The sample document contains fictional information
-for testing purposes.
